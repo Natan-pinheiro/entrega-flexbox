@@ -1,0 +1,106 @@
+.container1
+{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+}
+
+.container2
+{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+
+}
+
+.container3
+{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.container4
+{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.container5
+{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.container6
+{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.container-exercicioB
+{
+
+    display: flex;
+    flex-direction: column
+
+}
+
+.container-desafio
+{
+
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+
+}
+
+.quadrado
+{
+
+    height: 50px;
+    width: 50px;
+
+}
+
+.quadrado1
+{
+
+    background-color: aqua;
+
+}
+
+.quadrado2
+{
+
+    background-color: blue;
+    
+}
+
+.quadrado3
+{
+
+    background-color: blueviolet;
+    
+}
+
+.quadrado4
+{
+
+    background-color: chartreuse;
+    
+}
